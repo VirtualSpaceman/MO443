@@ -5,7 +5,6 @@ Repo for course MO443, with all practical assignments developed for the course.
 
 Uses [NumPy](https://numpy.org/), [OpenCV](https://opencv.org/), [Scikit-Image](https://scikit-image.org/), and [Matplotlib](https://matplotlib.org/).
 
-The Images folder contains inputs for all projects, of different dimensions, extensions and types.
 
 ## Structure
 Inside every ``Project-X`` folder there are:
